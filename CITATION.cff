@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "SDG Reinsurance & Investment (no correlation)"
+version: "0.1.0"
+date-released: "2025-10-20"
+authors:
+  - family-names: Letsoalo Lekau Terrence
+    given-names: Lekau
+url: "https://github.com/Terrence447/sdg-reinsurance-investment-no-corr"
+doi: ""
