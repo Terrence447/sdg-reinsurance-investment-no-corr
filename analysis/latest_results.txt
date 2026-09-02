@@ -1,0 +1,28 @@
+A2=2.22222222
+B2=1.14638448
+pi2(0)=1.64626271
+p2(0)=0.84926251
+t_pi=4.77820633
+t_p=5.44623136
+D=-0.00000000
+C(0)=4.39916433
+C(t_pi)=1.95398413
+C(t_p)=1.66597614
+M(0,x)=exp(rT)x+0.91104414
+Q(0)=77.02905763
+sd(0)=8.77661994
+CE(0,x)=exp(rT)x-12.56904095
+CE initial-gap threshold=9.31137455
+pi sensitivity
+Risk aversion $\gamma$ [0.0, 0.0, 4.7782, 9.4369, 10.0]
+Excess return $\mu_2-r$ [10.0, 10.0, 4.7782, 0.1195, 0.0]
+Market volatility $\sigma_2$ [0.0, 0.0, 4.7782, 10.0, 10.0]
+Investment cap $\overline{\pi}_2$ [0.0, 0.0, 4.7782, 9.4369, 10.0]
+retention sensitivity
+Risk aversion $\gamma$ [0.0, 0.0289, 5.4462, 10.0, 10.0]
+Reinsurance price $\lambda_2$ [10.0, 10.0, 5.4462, 0.7875, 0.0]
+Underwriting volatility $b_2$ [0.0, 0.0, 5.4462, 10.0, 10.0]
+selected endpoint switching times (-30%, baseline, +30%)
+-30% {'gamma': (0.0, 0.0), 'm2': 10.0, 'sigma2': 0.0, 'pi2_bar': 0.0, 'lambda2': 10.0, 'b2': 0.0}
+baseline {'gamma': (4.778206331820768, 5.446231361268975), 'm2': 4.778206331820768, 'sigma2': 4.778206331820768, 'pi2_bar': 4.778206331820768, 'lambda2': 5.446231361268975, 'b2': 5.446231361268975}
++30% {'gamma': (10.0, 10.0), 'm2': 0.0, 'sigma2': 10.0, 'pi2_bar': 10.0, 'lambda2': 0.0, 'b2': 10.0}
