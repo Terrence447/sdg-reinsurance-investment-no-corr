@@ -1,9 +1,13 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
-title: "SDG Reinsurance & Investment (no correlation)"
-version: "0.1.0"
-date-released: "2025-10-20"
+message: "If you use this software, please cite it using the metadata below."
+title: "Stochastic Differential Reinsurance Game and Investment Problem under No Correlation"
+type: software
+version: 1.0.0
+date-released: 2026-09-02
 authors:
-  - name: "Letsoalo Lekau Terrence"
-url: "https://github.com/Terrence447/sdg-reinsurance-investment-no-corr"
-doi: ""
+  - family-names: "Letsoalo"
+    given-names: "Lekau Terrence"
+    affiliation: "University of Limpopo"
+repository-code: "https://github.com/Terrence447/sdg-reinsurance-investment-no-corr"
+license: MIT
+
